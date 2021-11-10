@@ -108,5 +108,12 @@ Hypothesis Set 2:
    Using the above mentioned analysis and calculations it has been determined that of Hypothesis Set 1, the alternative hypothesis, that there is a dependency between cases and vaccinations, appears to have been established; also, of Hypothesis Set 2, the null hypothesis, that there is a unit root present and the series is non-stationary. In other words, analysis of the data available indicates that while vaccination counts are rising, new Covid-19 cases are rising as well and as time advances they rise at a greater rate. 
 	
    Further analysis based on a larger time frame (say 90 or 180 days) might give additional information. It could be that vaccination counts have not yet come to a number that would cause Covid-19 cases to fall or that the new Delta (or any subsequent) variant will cause Covid-19 cases to continue to rise despite increasing vaccination counts. At this time however, the suggestion of this analysis to any business owner or manager would be to prepare an action plan for further restrictions due to rise in Covid-19 cases. 
+   
+   <hr>
+   
+   Contact:
+
+* https://www.linkedin.com/in/sharon-colson
+* sharon.colson@gmail.com
 	
 
